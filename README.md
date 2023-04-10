@@ -1,6 +1,7 @@
 # Handwritten-Digit-Classification
 
 Input : images of handwritten digits
+
 Output:predicting the digit
 
 Method:
